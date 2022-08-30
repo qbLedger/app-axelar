@@ -2,6 +2,8 @@
 #include <cstdint>
 #include <cstdio>
 
+#include <zxformat.h>
+
 #include "parser.h"
 
 
